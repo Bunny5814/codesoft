@@ -1,2 +1,2 @@
-# codesoft
-uiux projects for codesoft internship
+# codsoft
+uiux projects for codsoft internship
